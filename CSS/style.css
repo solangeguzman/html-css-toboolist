@@ -1,0 +1,124 @@
+html{
+    background-color: rgb(216, 208, 208);
+
+}
+
+.container{
+    width: 1200px;
+    height: 100px;
+    border:1px black;
+    margin-left: 2%;
+    margin-bottom: 4%;    
+    background-color: white;
+}
+
+#logo{
+        height: 90 ;
+        width: 70px;
+        margin-top: 20px;
+        margin-left: 5px;
+       
+    }
+
+.logo-text{
+    
+    line-height: 80px;
+    font-family: sans-serif;
+    text-align: right;
+    display: inline-flex;
+    margin-left: 2%;
+    margin-top: 0%;
+}
+
+.container2{
+    width: 800px;
+    height: 500px;
+    border:1px black;
+    margin: auto ;     
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#tasto1{
+    margin-top: 10px 20px;
+}
+
+#buttonmargin{
+    
+    border-radius: 10px 10px 10px 10px;
+}
+
+#tasto1{
+    background-color: rgb(117, 194, 230);
+}
+#tasto2{
+     background-color: white;
+     color:rgb(163, 158, 158)
+    }
+
+.hr{
+    color: grey;
+    height: 10px;
+}
+
+ul{
+    list-style: none;
+    list-style-position: inside;
+}
+
+li{
+    margin: 15px 0;
+  }
+
+#editorial{
+    background-color: rgb(76, 185, 228);
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+#goals{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+#recruiting{
+    background-color: rgb(113, 209, 49);
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+#mobile{
+    background-color: rgb(214, 156, 30);
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+#website{
+    background-color: rgb(199, 30, 214);
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+#sales{
+    background-color: rgb(72, 112, 26);
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+
+.croce{
+color: red;
+}
+
+.radic{
+color: rgb(80, 194, 80);
+border-radius: 10%;
+border-color: red;
+}
+

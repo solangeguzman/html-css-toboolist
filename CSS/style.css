@@ -46,7 +46,6 @@ nav, .container2 {
     width: 800px;
     height: 500px;
     border:1px black;
-    
     margin: auto ;     
     background-color: white;
     border-radius: 10px 10px 10px 10px;
@@ -70,7 +69,7 @@ nav, .container2 {
     
 }
 
-}
+
 #tasto2{
     background: #fff;
     color: #c4cbd0;
